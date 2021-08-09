@@ -38,7 +38,7 @@ This command will test all of the code in the repo.
 Step 1: TODO or not TODO
 ------------------------
 
-As soon as you create a repo using this template,
+Once your environment is setup,
 you're going to want to address all of the TODO
 messages around the repo. I recommend starting with
 the ``setup.py`` file in the root directory. There, 
