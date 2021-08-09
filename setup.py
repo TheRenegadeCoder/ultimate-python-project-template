@@ -15,7 +15,7 @@ MAJOR = 0
 MINOR = 1
 PATCH = 0
 
-name = "subete"
+name = "python-project-template"
 version = f"{MAJOR}.{MINOR}"
 release = f"{MAJOR}.{MINOR}.{PATCH}"
 setuptools.setup(
