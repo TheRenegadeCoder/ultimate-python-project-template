@@ -16,9 +16,9 @@ sys.path.insert(0, os.path.abspath('../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'package'  # TODO: Change based on name of project
-copyright = 'YEAR, AUTHOR'  # TODO: Change based on year and author name
-author = 'AUTHOR'  # TODO: Change based on author name
+project = 'python-project-template'  # TODO: Change based on name of project
+copyright = '2021, The Renegade Coder'  # TODO: Change based on year and author name
+author = 'The Renegade Coder'  # TODO: Change based on author name
 
 # -- General configuration ---------------------------------------------------
 
