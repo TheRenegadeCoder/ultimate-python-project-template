@@ -17,7 +17,7 @@ root directory. One way to do this is as follows:
 
 .. code-block:: Shell
 
-    pip install -r requirements.txt\
+    pip install -r requirements.txt
 
 Then, just to make sure everything works, you can try 
 to run the following commands:
