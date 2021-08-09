@@ -79,7 +79,7 @@ Step 5: Next Steps
 By this point, the template should be good to go. Once you've
 added your code, you can publish everything by creating a
 release on GitHub. Before you do that, however, don't forget
-to update the version number in you ``setup.py``.
+to update the version number in your ``setup.py`` file.
 
 Troubleshooting
 ---------------
@@ -89,6 +89,9 @@ check out some of these example projects that use a
 similar directory structure:
 
 * `Subete <https://github.com/TheRenegadeCoder/subete>`_
+* `Jishi <https://github.com/TheRenegadeCoder/sample-programs-wiki>`_
+* `Ronbun <https://github.com/TheRenegadeCoder/sample-programs-readmes>`_
+* `Yomu <https://github.com/TheRenegadeCoder/how-to-python-readme>`_
 
 If you're unable to resolve the issue, feel free to submit
 and issue in the python-project-template repo. 
