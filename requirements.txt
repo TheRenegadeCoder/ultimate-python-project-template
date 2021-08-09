@@ -2,3 +2,5 @@ build
 sphinx
 sphinx_rtd_theme
 sphinx-issues
+pytest
+pytest-cov

@@ -5,6 +5,36 @@ Welcome to the ultimate Python project template.
 The goal of this usage page is to show you how to
 update this template for your needs. 
 
+Step 0: Setup Your Environment
+------------------------------
+
+Environment handling is a huge pain in Python. Hopefully,
+you're using an IDE that handles it for you. Regardless,
+to ensure everything works locally on your machine, 
+you'll want to kick things off by installing all of 
+the modules in the ``requirements.txt`` file in the
+root directory. One way to do this is as follows:
+
+.. code-block:: Shell
+
+    pip install -r requirements.txt\
+
+Then, just to make sure everything works, you can try 
+to run the following commands:
+
+.. code-block:: Shell
+
+    py setup.py build_sphinx
+
+This command will generate all of the documentation for
+the repo locally. 
+
+.. code-block:: Shell
+
+    py -m pytest
+
+This command will test all of the code in the repo. 
+
 Step 1: TODO or not TODO
 ------------------------
 
