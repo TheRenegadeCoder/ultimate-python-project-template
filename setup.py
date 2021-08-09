@@ -11,11 +11,12 @@ except ImportError:
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
+# TODO: set version of project (e.g., 0.1.0)
 MAJOR = 0
 MINOR = 1
 PATCH = 0
 
-name = "python-project-template"  # TODO: set name of project
+name = "python-project-template"  # TODO: set name of project (e.g. subete)
 version = f"{MAJOR}.{MINOR}"
 release = f"{MAJOR}.{MINOR}.{PATCH}"
 setuptools.setup(
