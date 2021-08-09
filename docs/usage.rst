@@ -20,3 +20,38 @@ way over to ``conf.py`` file in the docs directory.
 There you'll find a handful of fields to update as well.
 
 That should take care of all the TODOs!
+
+Step 2: File/Folder Renaming
+----------------------------
+
+With the TODOs out of the way, the next step is to 
+rename the appropriate files and folders. For example,
+you'll want to rename the package folder to the name
+of your project. Be sure to do this using a refactor
+tool of your favorite IDE. Otherwise, you'll have to
+chase references to the old name all around the repo. 
+
+Once you've renamed the package folder, go ahead and
+rename the module file to whatever you like. It's
+fine to give it the same name as the package folder. 
+
+Finally, you'll want to update these names in the
+documentation. As a result, head over to the docs
+directory and rename the ``package.rst`` file to 
+the name of your project. Inside this file, make
+sure automodule has the right package and module
+names. Then, head to ``index.rst`` and change 
+the name of the package reference under the table
+of contents.
+
+Troubleshooting
+---------------
+
+If you run into any problems with this project template,
+check out some of these example projects that use a
+similar directory structure:
+
+* `Subete <https://github.com/TheRenegadeCoder/subete>`_
+
+If you're unable to resolve the issue, feel free to submit
+and issue in the python-project-template repo. 
