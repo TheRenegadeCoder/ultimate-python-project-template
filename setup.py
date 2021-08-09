@@ -16,7 +16,7 @@ MAJOR = 0
 MINOR = 1
 PATCH = 0
 
-name = "python-project-template"  # TODO: set name of project (e.g. subete)
+name = "ultimate-python-project-template"  # TODO: set name of project (e.g. subete)
 version = f"{MAJOR}.{MINOR}"
 release = f"{MAJOR}.{MINOR}.{PATCH}"
 setuptools.setup(
@@ -27,7 +27,7 @@ setuptools.setup(
     description="The ultimate Python project template",  # TODO: set project description
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/TheRenegadeCoder/python-project-template",  # TODO: set repo url
+    url="https://github.com/TheRenegadeCoder/ultimate-python-project-template",  # TODO: set repo url
     packages=setuptools.find_packages(),
     python_requires=">=3.6",  # TODO: specify a range of supported python versions
     install_requires=[
