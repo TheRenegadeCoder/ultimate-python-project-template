@@ -2,8 +2,9 @@ name: Python Package
 
 on:
   release:
-    types: [published]
-
+    #types: [published] 
+    # TODO: uncomment the line above
+    
 jobs:
   deploy:
 
