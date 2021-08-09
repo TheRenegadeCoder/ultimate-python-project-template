@@ -15,7 +15,7 @@ MAJOR = 0
 MINOR = 1
 PATCH = 0
 
-name = "python-project-template"
+name = "python-project-template"  # TODO: set name of project
 version = f"{MAJOR}.{MINOR}"
 release = f"{MAJOR}.{MINOR}.{PATCH}"
 setuptools.setup(
