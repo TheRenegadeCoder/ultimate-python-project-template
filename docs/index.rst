@@ -1,5 +1,5 @@
 Welcome to the Ultimate Python Project Template!
-================================================================
+================================================
 
 The ultimate Python project template is a repo designed to 
 help folks kick off a project with best practices in mind

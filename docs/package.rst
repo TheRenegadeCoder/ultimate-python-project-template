@@ -7,7 +7,7 @@ and functions in a package.
 Package
 -------
 
-The package section documents all of the code in the __init__.py
+The package section documents all of the code in the ``__init__.py``
 file. If you put any code in that file, it will show up
 here. 
 
