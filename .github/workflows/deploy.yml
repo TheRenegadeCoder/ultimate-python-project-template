@@ -29,4 +29,4 @@ jobs:
       uses: pypa/gh-action-pypi-publish@release/v1
       with:
         user: __token__
-        password: ${{ secrets.PYPI_API_TOKEN }}  # Make sure to set this secret on GitHub
+        password: ${{ secrets.PYPI_API_TOKEN }}  # TODO: create secret on GitHub
